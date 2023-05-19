@@ -1,0 +1,159 @@
+
+ *{
+	border: 1px dashed transparent;
+	min-height: 10px;
+ }*
+
+ 
+
+ h1{
+    margin-top: 5px;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size:18px;
+   background-color: white;
+
+}
+#first{
+    margin: auto;
+    width: 600px;
+    height: 420px;
+    background-color: white;
+    margin-top: 50px;
+  
+}
+
+.Bodyfeed{
+    background-color: lightgray;
+    height: 2000px;
+}
+
+.first-header {
+    display: flex;
+}
+.first-number{
+    margin-left: 420px;
+    color:lightgray;
+    font-size: 15px;
+}
+.first-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 12px;
+  
+}
+.first-image img{
+    width: 600px;
+    height: 300px;
+}
+
+.first-footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 12px;
+}
+
+#second{
+    margin: auto;
+    width: 600px;
+    height: 420px;
+    background-color: white;
+    margin-top: 50px;
+
+}
+
+.second-header{
+    display:flex;
+}
+
+.second-number{
+    margin-left: 420px;
+    color:lightgray;
+    font-size: 15px;
+}
+
+.second-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 12px;
+  
+}
+.second-image img{
+    width: 600px;
+    height: 320px;
+}
+.second-footer p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 12px;
+}
+
+#third{
+    margin: auto;
+    width: 600px;
+    height: 420px;
+    background-color: white;
+    margin-top: 50px;
+   
+}
+
+.third-header {
+    display: flex;
+}
+
+.third-number{
+    margin-left: 340px;
+    color:lightgray;
+    font-size: 15px;
+}
+.third-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 12px;
+    width: 200px;
+}
+
+.third-image img{
+    width: 600px;
+    height: 300px;
+}
+
+.third-footer p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 12px;
+}
+#fourth{
+    margin: auto;
+    width: 600px;
+    height: 420px;
+    background-color: white;
+    margin-top: 50px;
+   
+}
+
+.fourth-header {
+    display: flex;
+}
+.fourth-number{
+    margin-left: 340px;
+    color:lightgray;
+    font-size: 15px;
+}
+.fourth-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 12px;
+    width: 200px;
+  
+}
+.fourth-image img{
+    width: 600px;
+    height: 300px;
+}
+
+.fourth-footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 12px;
+}
